@@ -1,0 +1,128 @@
+﻿  jsb_module_register.cpp
+  main.cpp
+  AppDelegate.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocale(341): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc (compiling source file ..\Classes\jsb_module_register.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocale(341): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc (compiling source file main.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocale(341): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc (compiling source file ..\Classes\AppDelegate.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\exception(359): warning C4577: 'noexcept' used with no exception handling mode specified; termination on exception is not guaranteed. Specify /EHsc (compiling source file main.cpp)
+c:\cocoscreator\resources\cocos2d-x\cocos\2d/CCTMXObjectGroup.h(49): warning C4099: 'cocos2d::Color4F': type name first seen using 'struct' now seen using 'class' (compiling source file ..\Classes\AppDelegate.cpp)
+  c:\cocoscreator\resources\cocos2d-x\cocos\base/ccTypes.h(134): note: see declaration of 'cocos2d::Color4F' (compiling source file ..\Classes\AppDelegate.cpp)
+c:\cocoscreator\resources\cocos2d-x\cocos\2d/CCTMXObjectGroup.h(49): warning C4099: 'cocos2d::Color4F': type name first seen using 'struct' now seen using 'class' (compiling source file ..\Classes\jsb_module_register.cpp)
+  c:\cocoscreator\resources\cocos2d-x\cocos\base/ccTypes.h(134): note: see declaration of 'cocos2d::Color4F' (compiling source file ..\Classes\jsb_module_register.cpp)
+..\Classes\AppDelegate.cpp(56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\exception(359): warning C4577: 'noexcept' used with no exception handling mode specified; termination on exception is not guaranteed. Specify /EHsc (compiling source file ..\Classes\AppDelegate.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cmath(75): warning C4577: 'noexcept' used with no exception handling mode specified; termination on exception is not guaranteed. Specify /EHsc (compiling source file ..\Classes\jsb_module_register.cpp)
+     Creating library C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\Tetris.lib and object C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\Tetris.exp
+  Tetris.vcxproj -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\Tetris.exe
+  Tetris.vcxproj -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\Tetris.pdb (Full PDB)
+  Performing Custom Build Step
+  C:\CocosCreator\resources\cocos2d-x\cocos\scripting\js-bindings\script\jsb.js -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\script\jsb.js
+  C:\CocosCreator\resources\cocos2d-x\cocos\scripting\js-bindings\script\jsb_audioengine.js -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\script\jsb_audioengine.js
+  C:\CocosCreator\resources\cocos2d-x\cocos\scripting\js-bindings\script\jsb_boot.js -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\script\jsb_boot.js
+  C:\CocosCreator\resources\cocos2d-x\cocos\scripting\js-bindings\script\jsb_cocos2d.js -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\script\jsb_cocos2d.js
+  C:\CocosCreator\resources\cocos2d-x\cocos\scripting\js-bindings\script\jsb_cocosanalytics.js -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\script\jsb_cocosanalytics.js
+  C:\CocosCreator\resources\cocos2d-x\cocos\scripting\js-bindings\script\jsb_common.js -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\script\jsb_common.js
+  C:\CocosCreator\resources\cocos2d-x\cocos\scripting\js-bindings\script\jsb_create_apis.js -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\script\jsb_create_apis.js
+  C:\CocosCreator\resources\cocos2d-x\cocos\scripting\js-bindings\script\jsb_debugger.js -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\script\jsb_debugger.js
+  C:\CocosCreator\resources\cocos2d-x\cocos\scripting\js-bindings\script\jsb_dragonbones.js -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\script\jsb_dragonbones.js
+  C:\CocosCreator\resources\cocos2d-x\cocos\scripting\js-bindings\script\jsb_opengl.js -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\script\jsb_opengl.js
+  C:\CocosCreator\resources\cocos2d-x\cocos\scripting\js-bindings\script\jsb_opengl_constants.js -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\script\jsb_opengl_constants.js
+  C:\CocosCreator\resources\cocos2d-x\cocos\scripting\js-bindings\script\jsb_prepare.js -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\script\jsb_prepare.js
+  C:\CocosCreator\resources\cocos2d-x\cocos\scripting\js-bindings\script\jsb_property_apis.js -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\script\jsb_property_apis.js
+  C:\CocosCreator\resources\cocos2d-x\cocos\scripting\js-bindings\script\jsb_property_impls.js -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\script\jsb_property_impls.js
+  C:\CocosCreator\resources\cocos2d-x\cocos\scripting\js-bindings\script\jsb_spine.js -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\script\jsb_spine.js
+  C:\CocosCreator\resources\cocos2d-x\cocos\scripting\js-bindings\script\ccui\jsb_ccui_create_apis.js -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\script\ccui\jsb_ccui_create_apis.js
+  C:\CocosCreator\resources\cocos2d-x\cocos\scripting\js-bindings\script\ccui\jsb_ccui_deprecated.js -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\script\ccui\jsb_ccui_deprecated.js
+  C:\CocosCreator\resources\cocos2d-x\cocos\scripting\js-bindings\script\ccui\jsb_ccui_property_apis.js -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\script\ccui\jsb_ccui_property_apis.js
+  C:\CocosCreator\resources\cocos2d-x\cocos\scripting\js-bindings\script\ccui\jsb_ccui_property_impls.js -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\script\ccui\jsb_ccui_property_impls.js
+  C:\CocosCreator\resources\cocos2d-x\cocos\scripting\js-bindings\script\ccui\jsb_cocos2d_ui.js -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\script\ccui\jsb_cocos2d_ui.js
+  C:\CocosCreator\resources\cocos2d-x\cocos\scripting\js-bindings\script\debugger\DevToolsUtils.js -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\script\debugger\DevToolsUtils.js
+  C:\CocosCreator\resources\cocos2d-x\cocos\scripting\js-bindings\script\debugger\event-emitter.js -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\script\debugger\event-emitter.js
+  C:\CocosCreator\resources\cocos2d-x\cocos\scripting\js-bindings\script\debugger\main.js -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\script\debugger\main.js
+  C:\CocosCreator\resources\cocos2d-x\cocos\scripting\js-bindings\script\debugger\protocol.js -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\script\debugger\protocol.js
+  C:\CocosCreator\resources\cocos2d-x\cocos\scripting\js-bindings\script\debugger\README.md -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\script\debugger\README.md
+  C:\CocosCreator\resources\cocos2d-x\cocos\scripting\js-bindings\script\debugger\transport.js -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\script\debugger\transport.js
+  C:\CocosCreator\resources\cocos2d-x\cocos\scripting\js-bindings\script\debugger\actors\breakpoint.js -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\script\debugger\actors\breakpoint.js
+  C:\CocosCreator\resources\cocos2d-x\cocos\scripting\js-bindings\script\debugger\actors\common.js -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\script\debugger\actors\common.js
+  C:\CocosCreator\resources\cocos2d-x\cocos\scripting\js-bindings\script\debugger\actors\environment.js -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\script\debugger\actors\environment.js
+  C:\CocosCreator\resources\cocos2d-x\cocos\scripting\js-bindings\script\debugger\actors\frame.js -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\script\debugger\actors\frame.js
+  C:\CocosCreator\resources\cocos2d-x\cocos\scripting\js-bindings\script\debugger\actors\object.js -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\script\debugger\actors\object.js
+  C:\CocosCreator\resources\cocos2d-x\cocos\scripting\js-bindings\script\debugger\actors\root.js -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\script\debugger\actors\root.js
+  C:\CocosCreator\resources\cocos2d-x\cocos\scripting\js-bindings\script\debugger\actors\script.js -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\script\debugger\actors\script.js
+  C:\CocosCreator\resources\cocos2d-x\cocos\scripting\js-bindings\script\debugger\actors\source.js -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\script\debugger\actors\source.js
+  C:\CocosCreator\resources\cocos2d-x\cocos\scripting\js-bindings\script\debugger\actors\webconsole.js -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\script\debugger\actors\webconsole.js
+  C:\CocosCreator\resources\cocos2d-x\cocos\scripting\js-bindings\script\debugger\actors\utils\ScriptStore.js -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\script\debugger\actors\utils\ScriptStore.js
+  C:\CocosCreator\resources\cocos2d-x\cocos\scripting\js-bindings\script\debugger\actors\utils\TabSources.js -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\script\debugger\actors\utils\TabSources.js
+  C:\CocosCreator\resources\cocos2d-x\cocos\scripting\js-bindings\script\debugger\sdk\event-core.js -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\script\debugger\sdk\event-core.js
+  C:\CocosCreator\resources\cocos2d-x\cocos\scripting\js-bindings\script\debugger\sdk\heritage.js -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\script\debugger\sdk\heritage.js
+  C:\CocosCreator\resources\cocos2d-x\cocos\scripting\js-bindings\script\debugger\sdk\object.js -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\script\debugger\sdk\object.js
+  C:\CocosCreator\resources\cocos2d-x\cocos\scripting\js-bindings\script\debugger\sdk\target.js -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\script\debugger\sdk\target.js
+  C:\CocosCreator\resources\cocos2d-x\cocos\scripting\js-bindings\script\debugger\webconsole\utils.js -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\script\debugger\webconsole\utils.js
+  C:\CocosCreator\resources\cocos2d-x\cocos\scripting\js-bindings\script\extension\jsb_cocos2d_extension.js -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\script\extension\jsb_cocos2d_extension.js
+  43 File(s) copied
+  C:\TetrisGame\jsb-link\src\jsb_polyfill.jsc -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\src\jsb_polyfill.jsc
+  C:\TetrisGame\jsb-link\src\project.jsc -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\src\project.jsc
+  C:\TetrisGame\jsb-link\src\settings.jsc -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\src\settings.jsc
+  3 File(s) copied
+  C:\TetrisGame\jsb-link\res\import\09\098db2d3-c70a-4207-bb30-e8495eaacc3e.json -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\import\09\098db2d3-c70a-4207-bb30-e8495eaacc3e.json
+  C:\TetrisGame\jsb-link\res\import\0e\0e52644d-d18e-4ae3-8017-40715f2f9c0e.json -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\import\0e\0e52644d-d18e-4ae3-8017-40715f2f9c0e.json
+  C:\TetrisGame\jsb-link\res\import\10\107849b0-22a2-4854-a3cd-2f931b8998f2.json -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\import\10\107849b0-22a2-4854-a3cd-2f931b8998f2.json
+  C:\TetrisGame\jsb-link\res\import\15\1562efe3-2b83-423a-8205-770c9a60f027.json -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\import\15\1562efe3-2b83-423a-8205-770c9a60f027.json
+  C:\TetrisGame\jsb-link\res\import\20\205110bf-c160-4b5f-a868-32d020a2acc5.json -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\import\20\205110bf-c160-4b5f-a868-32d020a2acc5.json
+  C:\TetrisGame\jsb-link\res\import\21\21d3b70d-9a44-4f3b-aa64-bef5b5f479d3.json -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\import\21\21d3b70d-9a44-4f3b-aa64-bef5b5f479d3.json
+  C:\TetrisGame\jsb-link\res\import\24\24988e2a-4901-4b22-9ed6-05b171120ddf.json -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\import\24\24988e2a-4901-4b22-9ed6-05b171120ddf.json
+  C:\TetrisGame\jsb-link\res\import\40\400495c5-c3f2-4fd0-9156-249daa96d8cd.json -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\import\40\400495c5-c3f2-4fd0-9156-249daa96d8cd.json
+  C:\TetrisGame\jsb-link\res\import\45\4578708e-64e7-4c22-8561-bc27bb3a7aa9.json -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\import\45\4578708e-64e7-4c22-8561-bc27bb3a7aa9.json
+  C:\TetrisGame\jsb-link\res\import\54\54281969-6497-4c00-97c9-35f293267764.json -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\import\54\54281969-6497-4c00-97c9-35f293267764.json
+  C:\TetrisGame\jsb-link\res\import\61\61f3df53-cda4-43fd-8b62-1a25ce13bd4d.json -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\import\61\61f3df53-cda4-43fd-8b62-1a25ce13bd4d.json
+  C:\TetrisGame\jsb-link\res\import\64\640c76d0-4b20-487a-830f-6f7e31730820.json -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\import\64\640c76d0-4b20-487a-830f-6f7e31730820.json
+  C:\TetrisGame\jsb-link\res\import\66\66434773-0cf0-4a1c-85fa-4dfc191bea7b.json -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\import\66\66434773-0cf0-4a1c-85fa-4dfc191bea7b.json
+  C:\TetrisGame\jsb-link\res\import\69\6960415f-b4ab-4925-83d4-6afe28f4eee0.json -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\import\69\6960415f-b4ab-4925-83d4-6afe28f4eee0.json
+  C:\TetrisGame\jsb-link\res\import\69\69942b20-9b70-4461-b90f-f9407bdd4592.json -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\import\69\69942b20-9b70-4461-b90f-f9407bdd4592.json
+  C:\TetrisGame\jsb-link\res\import\6c\6cd9c37f-991f-49bd-89aa-9e45d80d13a0.json -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\import\6c\6cd9c37f-991f-49bd-89aa-9e45d80d13a0.json
+  C:\TetrisGame\jsb-link\res\import\6f\6f688c75-57a3-4fc5-bb51-a9139eac02b1.json -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\import\6f\6f688c75-57a3-4fc5-bb51-a9139eac02b1.json
+  C:\TetrisGame\jsb-link\res\import\80\80d8dce2-bb7e-4443-966e-e287376200cb.json -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\import\80\80d8dce2-bb7e-4443-966e-e287376200cb.json
+  C:\TetrisGame\jsb-link\res\import\82\8254282a-3c4f-4e24-957f-75844a88b44c.json -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\import\82\8254282a-3c4f-4e24-957f-75844a88b44c.json
+  C:\TetrisGame\jsb-link\res\import\87\87fc6376-4c87-4aa7-9375-440e0b4c745f.json -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\import\87\87fc6376-4c87-4aa7-9375-440e0b4c745f.json
+  C:\TetrisGame\jsb-link\res\import\8c\8cdb44ac-a3f6-449f-b354-7cd48cf84061.json -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\import\8c\8cdb44ac-a3f6-449f-b354-7cd48cf84061.json
+  C:\TetrisGame\jsb-link\res\import\92\92fc2e49-b4ca-4a04-82d5-a7c5dd3e01cb.json -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\import\92\92fc2e49-b4ca-4a04-82d5-a7c5dd3e01cb.json
+  C:\TetrisGame\jsb-link\res\import\94\946c176e-e1d3-4a8d-b357-2d8bec93cdd4.json -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\import\94\946c176e-e1d3-4a8d-b357-2d8bec93cdd4.json
+  C:\TetrisGame\jsb-link\res\import\a0\a0bfdf3d-7ac6-44a8-9573-de9b0b676d03.json -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\import\a0\a0bfdf3d-7ac6-44a8-9573-de9b0b676d03.json
+  C:\TetrisGame\jsb-link\res\import\a9\a9ee2725-f1f0-418a-8cf5-23ccf299211a.json -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\import\a9\a9ee2725-f1f0-418a-8cf5-23ccf299211a.json
+  C:\TetrisGame\jsb-link\res\import\b1\b18f7a3b-d642-4c17-8062-b4201dd9fed5.json -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\import\b1\b18f7a3b-d642-4c17-8062-b4201dd9fed5.json
+  C:\TetrisGame\jsb-link\res\import\b4\b4dea2ac-6a2c-4e72-928e-f6c573356c52.json -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\import\b4\b4dea2ac-6a2c-4e72-928e-f6c573356c52.json
+  C:\TetrisGame\jsb-link\res\import\be\be30481e-7660-43f6-a39d-23958633fda5.json -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\import\be\be30481e-7660-43f6-a39d-23958633fda5.json
+  C:\TetrisGame\jsb-link\res\import\c0\c024d25c-c9aa-4082-9540-dcfb328da96e.json -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\import\c0\c024d25c-c9aa-4082-9540-dcfb328da96e.json
+  C:\TetrisGame\jsb-link\res\import\c2\c2f3fa22-0ebd-4911-9a4b-313c9e43d51b.json -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\import\c2\c2f3fa22-0ebd-4911-9a4b-313c9e43d51b.json
+  C:\TetrisGame\jsb-link\res\import\c4\c42f6e2c-974e-4462-a4de-b89bb2f402a8.json -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\import\c4\c42f6e2c-974e-4462-a4de-b89bb2f402a8.json
+  C:\TetrisGame\jsb-link\res\import\da\da4f0ce1-72f0-482b-8723-3677bad0e593.json -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\import\da\da4f0ce1-72f0-482b-8723-3677bad0e593.json
+  C:\TetrisGame\jsb-link\res\import\dd\dd321d50-aff2-405e-87b7-fa4ffc8f04a4.json -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\import\dd\dd321d50-aff2-405e-87b7-fa4ffc8f04a4.json
+  C:\TetrisGame\jsb-link\res\import\dd\dd321d50-aff2-405e-87b7-fa4ffc8f04a4\ARCADECLASSIC.ttf -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\import\dd\dd321d50-aff2-405e-87b7-fa4ffc8f04a4\ARCADECLASSIC.ttf
+  C:\TetrisGame\jsb-link\res\import\e1\e11d02e8-6f0c-4682-9adc-1639c820eba0.json -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\import\e1\e11d02e8-6f0c-4682-9adc-1639c820eba0.json
+  C:\TetrisGame\jsb-link\res\import\e2\e229d193-6948-4d0e-8d7f-8c5cd11b708f.json -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\import\e2\e229d193-6948-4d0e-8d7f-8c5cd11b708f.json
+  C:\TetrisGame\jsb-link\res\import\e7\e72b4a52-621c-4290-912c-7475e4670354.json -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\import\e7\e72b4a52-621c-4290-912c-7475e4670354.json
+  C:\TetrisGame\jsb-link\res\import\e9\e92843e5-f208-4f85-9336-2b91c7357739.json -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\import\e9\e92843e5-f208-4f85-9336-2b91c7357739.json
+  C:\TetrisGame\jsb-link\res\import\eb\eb25ee9c-9905-4061-81cf-d1eb8b59d1e7.json -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\import\eb\eb25ee9c-9905-4061-81cf-d1eb8b59d1e7.json
+  C:\TetrisGame\jsb-link\res\import\f1\f15e849e-2ff3-49ca-b2df-859d25c2b941.json -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\import\f1\f15e849e-2ff3-49ca-b2df-859d25c2b941.json
+  C:\TetrisGame\jsb-link\res\raw-assets\background.png -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\raw-assets\background.png
+  C:\TetrisGame\jsb-link\res\raw-assets\border.png -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\raw-assets\border.png
+  C:\TetrisGame\jsb-link\res\raw-assets\button.png -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\raw-assets\button.png
+  C:\TetrisGame\jsb-link\res\raw-assets\i-block.png -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\raw-assets\i-block.png
+  C:\TetrisGame\jsb-link\res\raw-assets\iblock.png -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\raw-assets\iblock.png
+  C:\TetrisGame\jsb-link\res\raw-assets\j-block.png -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\raw-assets\j-block.png
+  C:\TetrisGame\jsb-link\res\raw-assets\jblock.png -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\raw-assets\jblock.png
+  C:\TetrisGame\jsb-link\res\raw-assets\l-block.png -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\raw-assets\l-block.png
+  C:\TetrisGame\jsb-link\res\raw-assets\lblock.png -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\raw-assets\lblock.png
+  C:\TetrisGame\jsb-link\res\raw-assets\logo.png -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\raw-assets\logo.png
+  C:\TetrisGame\jsb-link\res\raw-assets\o-block.png -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\raw-assets\o-block.png
+  C:\TetrisGame\jsb-link\res\raw-assets\oblock.png -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\raw-assets\oblock.png
+  C:\TetrisGame\jsb-link\res\raw-assets\s-block.png -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\raw-assets\s-block.png
+  C:\TetrisGame\jsb-link\res\raw-assets\sblock.png -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\raw-assets\sblock.png
+  C:\TetrisGame\jsb-link\res\raw-assets\t-block.png -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\raw-assets\t-block.png
+  C:\TetrisGame\jsb-link\res\raw-assets\tblock.png -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\raw-assets\tblock.png
+  C:\TetrisGame\jsb-link\res\raw-assets\z-block.png -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\raw-assets\z-block.png
+  C:\TetrisGame\jsb-link\res\raw-assets\zblock.png -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\raw-assets\zblock.png
+  C:\TetrisGame\jsb-link\res\raw-internal\image\default_sprite.png -> C:\TetrisGame\jsb-link\frameworks\runtime-src\proj.win32\Release.win32\res\raw-internal\image\default_sprite.png
+  59 File(s) copied
+          1 file(s) copied.
+          1 file(s) copied.
